@@ -1,5 +1,4 @@
-
-# Magic 8 Ball Game in C#
+## Project Title: Magic 8 Ball Game in C#
 
 **Description:**
 This project is a Magic 8 Ball game implemented using C# .NET. The application setup file allows for easy installation on Windows systems. Simply double-click on the setup file to install the application. Once installed, you can run the application on your system. The entire project code is available for installation and optimization.
@@ -17,10 +16,13 @@ This project is a Magic 8 Ball game implemented using C# .NET. The application s
 
 **Usage:**
 1. Run the installed application.
-2. Input your question in the textbox.
-3. Click on the "Ask Me" button to get a random response.
-4. Use the "Clear" button to clear the input textbox.
-5. Click on the "Quit" button to exit the application.
+2. Use the following credentials to log in:
+   - Username: Admin
+   - Password: Magicgame@123
+3. Input your question in the textbox.
+4. Click on the "Ask Me" button to get a random response.
+5. Use the "Clear" button to clear the input textbox.
+6. Click on the "Quit" button to exit the application.
 
 **Screenshots:**
 1. ![Screenshot 1](https://github.com/tech-skil/Magic_8_ball_game/assets/130985031/462796b7-8632-4346-8ee4-3670bb3d5758)
