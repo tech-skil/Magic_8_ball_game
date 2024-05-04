@@ -25,6 +25,9 @@ This project is a Magic 8 Ball game implemented using C# .NET. The application s
 6. Click on the "Quit" button to exit the application.
 
 **Screenshots:**
+
+
+
 1.
 
 ![Screenshot 1](https://github.com/tech-skil/Magic_8_ball_game/assets/130985031/462796b7-8632-4346-8ee4-3670bb3d5758)
