@@ -1,4 +1,4 @@
-## Project Title: Magic 8 Ball Game in C#
+# Magic 8 Ball Game in C#
 
 **Description:**
 This project is a Magic 8 Ball game implemented using C# .NET. The application setup file allows for easy installation on Windows systems. Simply double-click on the setup file to install the application. Once installed, you can run the application on your system. The entire project code is available for installation and optimization.
